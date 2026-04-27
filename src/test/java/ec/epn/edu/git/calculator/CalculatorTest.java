@@ -1,4 +1,4 @@
-package ec.epn.edu;
+package ec.epn.edu.git.calculator;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
